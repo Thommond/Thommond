@@ -6,7 +6,7 @@
 
 * **LinkedIn:** [Thom Mondeaux](https://www.linkedin.com/in/thom-mondeaux-84814419b/)
 * **Portfolio:** [Thom's Website](https://thommond.github.io/Thom-Mond-github.io/)
-* **Leetcode:** [Thomond553] (https://leetcode.com/Thommond553/)
+* **Leetcode:** [Thomond553](https://leetcode.com/Thommond553/)
 
 ### Have a variety of expirence and can develop with:
 (To see a full list check out my above links)
