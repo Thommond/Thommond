@@ -15,6 +15,7 @@
 * Flask
 * JavaScript
 * MySQL
+* Vue.js
 * PHP
 
 
