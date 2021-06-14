@@ -1,6 +1,6 @@
 ### Hey There! 
 
-## I am Thomas J Mondeaux.
+## I am Thomas  Mondeaux.
 
 ###### ***Software Engineer*** 
 
