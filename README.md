@@ -4,18 +4,18 @@
 
 ###### ***Software Engineer*** 
 
-* **LinkedIn:** [Thom Mondeaux](https://www.linkedin.com/in/thom-mondeaux-84814419b/)
+* **LinkedIn:** [Thom Mondeaux](https://www.linkedin.com/in/thom-m-84814419b/)
 * **Leetcode:** [Thomond553](https://leetcode.com/Thommond553/)
 
 ### Have a variety of expirence and can develop with:
 (To see a full list check out my above links)
 
-* Python
-* Flask
-* JavaScript
-* MySQL
-* Vue.js
 * PHP
+* MySQL
+* JavaScript
+* Vue.js
+* Git
+* HTML5/CSS3
 
 
 ### My GitHub stats
